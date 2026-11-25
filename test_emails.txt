@@ -1,0 +1,143 @@
+==================================================
+SPAM EMAIL EXAMPLES (Expected: Spam)
+==================================================
+
+--- SPAM 1: Prize / Lottery Scam ---
+Subject: CONGRATULATIONS! You have won $1,000,000 in the International Sweepstakes!
+
+Dear Lucky Winner,
+
+Your email address was randomly selected as the grand prize winner of $1,000,000 USD! To claim your prize immediately, please reply with your full name, home address, phone number, and bank account details within 24 hours.
+
+Click here to verify your claim now: http://claim-prize-now.example.com/verify
+
+Act fast before your reward expires!
+
+--- SPAM 2: Phishing / Account Alert ---
+Subject: URGENT: Verify your bank account information immediately!
+
+Dear Valued Customer,
+
+We noticed suspicious activity on your online banking account and your access has been temporarily limited.
+
+To avoid permanent suspension, click here to confirm your identity, password, and credit card details within 24 hours:
+
+http://secure-bank-verify.example.com/login
+
+Thank you,
+Online Security Department
+
+--- SPAM 3: Loan / Financial Offer ---
+Subject: Pre-approved $50,000 loan - No credit check required!
+
+Need fast cash today? You are pre-approved for up to $50,000 with 0% interest for the first 12 months!
+
+- Instant approval in 5 minutes
+- Bad credit or no credit accepted
+- Direct deposit to your bank account tomorrow
+
+Apply now: http://fast-cash-approval.example.com
+Reply STOP to unsubscribe.
+
+--- SPAM 4: Medication / Promotional ---
+Subject: best prices on prescription meds - 80% off today only
+
+hello,
+
+save big on all brand name medications with no prescription needed. discrete shipping worldwide directly to your door.
+
+special limited time offer: buy 1 get 1 free on all orders placed today!
+visit our online pharmacy: www.cheap-meds-online.example.com
+
+--- SPAM 5: Cold Outreach / Lead Generation ---
+Subject: Quick question about your business growth
+
+Hi there,
+
+I noticed your company website and wanted to share a proven system that guarantees 10x more leads in 30 days without extra ad spend. Many clients are already making $10,000/month using our automated tool.
+
+Can we schedule a 10-minute call this week? Click here to grab your free trial: http://growth-boost-tool.example.com
+
+
+==================================================
+NON-SPAM (HAM) EMAIL EXAMPLES (Expected: Not Spam)
+==================================================
+
+--- NON-SPAM 1: Team Meeting Update ---
+Subject: Weekly sync moved to 3 PM
+
+Hi team,
+
+Let's move today's weekly sync to 3:00 PM in conference room B. Please bring your Q3 numbers and project status updates.
+
+Thanks,
+Priya
+
+--- NON-SPAM 2: Invoice / Client Follow-up ---
+Subject: Invoice for October consulting services
+
+Hi Sarah,
+
+Attached is the invoice for October consulting work. Let me know if you need any clarification on the line items or hours logged.
+
+Best regards,
+Alex
+
+--- NON-SPAM 3: Project Review / Code Feedback ---
+Subject: Re: Pull request review for auth module
+
+Hey Rohan,
+
+I reviewed your changes in the auth module and left two minor comments on the token refresh logic. Once those are addressed, we should be good to merge before Friday's release.
+
+Best,
+Maya
+
+--- NON-SPAM 4: HR / Leave Notification ---
+Subject: Out of office next Monday and Tuesday
+
+Hello everyone,
+
+I will be out of the office on Monday and Tuesday next week for a family event. For urgent production issues during those two days, please reach out to Vikram.
+
+Regards,
+Neha
+
+--- NON-SPAM 5: Event / Retreat Planning ---
+Subject: Agenda for Friday's department workshop
+
+Hi all,
+
+Here is the schedule for Friday's workshop:
+- 10:00 AM: Opening remarks and Q4 goals
+- 11:30 AM: Team breakout session
+- 1:00 PM: Lunch in the main cafeteria
+
+Please let me know if you have any dietary preferences.
+
+Thanks,
+Bobby
+
+
+==================================================
+BORDERLINE / MEDIUM-CONFIDENCE EXAMPLES (50% - 70% Confidence)
+==================================================
+
+--- BORDERLINE 1: Promotional Webinar Invite (~63% Spam Confidence) ---
+Subject: Special webinar invitation - Boost your team productivity
+
+Hi,
+
+We are hosting a free 30-minute online workshop this Thursday on automating your daily sales workflow. Register now to reserve your spot and receive our free guide.
+
+Sign up here: http://productivity-webinar.example.com
+
+--- BORDERLINE 2: Generic Security Sign-in Notice (~53% Spam Confidence) ---
+Subject: Security alert: unusual sign-in activity
+
+Hi,
+
+We noticed a sign-in attempt from a new browser. If this was you, no action is needed. If not, please review your account settings soon.
+
+Thanks,
+Support Team
